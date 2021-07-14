@@ -52,6 +52,19 @@ body {
 
 }
 
+button, input {
+margin: 20px;
+
+ 
+}
+
+.box {
+
+display: flex;
+align-content: row;
+
+}
+
 .cell {
     background-color: white;
     padding: 45px;
